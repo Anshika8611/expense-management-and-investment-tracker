@@ -1,0 +1,4 @@
+# ExpenseIQ - No external packages required!
+# All modules used are part of Python's built-in standard library:
+# tkinter, sqlite3, hashlib, os, datetime, json
+# Just make sure Python 3.8+ is installed 
